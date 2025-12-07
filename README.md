@@ -3,4 +3,4 @@ this is my 2nd repo
 <br>
 author-sravani
 <br>
-from vizag
+from viz
